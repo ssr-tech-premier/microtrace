@@ -48,3 +48,13 @@ Navigate to each micro-service root directory
 - http://localhost:8180/chainException
 - http://localhost:8180/chainLatency
   
+#Snapshots
+
+-Traces
+![micro-trace-snapshot-1](https://user-images.githubusercontent.com/33663711/41805673-7d02b52a-76cc-11e8-8124-6a6fc8d936a4.PNG)
+
+-Services
+![micro-trace-snapshot-2](https://user-images.githubusercontent.com/33663711/41805674-7d2d80ca-76cc-11e8-8f2e-7a699617d02c.PNG)
+
+-Span
+![micro-trace-snapshot-3](https://user-images.githubusercontent.com/33663711/41805675-7d575de6-76cc-11e8-9d75-7e01ceceb066.PNG)
