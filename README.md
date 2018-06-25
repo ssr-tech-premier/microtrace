@@ -5,9 +5,9 @@ Distributed Tracing for Micro Services using Jaeger
 Install jaeger without docker on Windows / Llinux
 https://github.com/jaegertracing/jaeger/releases
 
-~~
-Release 1.5.0 -> jaeger-1.5.0-windows-amd64.tar.gz
-~~
+
+-- Release 1.5.0 -> jaeger-1.5.0-windows-amd64.tar.gz
+
 
 - Extract the package jaeger-1.5.0-windows-amd64
 - Navigate to the folder where package is extracted in Command Prompt (cmd)
@@ -48,7 +48,7 @@ Navigate to each micro-service root directory
 - http://localhost:8180/chainException
 - http://localhost:8180/chainLatency
   
-#Snapshots
+# Snapshots
 
 - Traces
 ![micro-trace-snapshot-1](https://user-images.githubusercontent.com/33663711/41805673-7d02b52a-76cc-11e8-8124-6a6fc8d936a4.PNG)
